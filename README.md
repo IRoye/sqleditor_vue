@@ -1,5 +1,7 @@
 # sqleditor_vue
 
+将之前的sqlEditor用vue重写一遍
+
 ## Project setup
 ```
 yarn install
