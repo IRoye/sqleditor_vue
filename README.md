@@ -1,5 +1,6 @@
 # sqleditor_vue
 
+一个SQL 编辑器的前端界面
 将之前的sqlEditor用vue重写一遍
 
 ## Project setup
